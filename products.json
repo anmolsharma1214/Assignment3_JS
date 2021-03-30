@@ -1,0 +1,41 @@
+[{
+
+        "Name": "A pre-fabricated home in a shipping container",
+        "Price": "$36,000",
+        "Description": "Who says you have to pay exorbitant broker fees to find the home of your dreams? You can make your dreams of homeownership come true as easily as you'd buy a bottle of dish soap, thanks to this storage-container-turned-house, available for a cool $36K.",
+        "Features": " make your dreams of homeownership come true as easily as you'd buy a bottle of dish soap",
+        "Image": "1.jpg"
+    },
+
+    {
+        "Name": "1,500 live ladybugs",
+        "Price": "$3.05",
+        "Description": "Who says you can't buy anything for under $10 anymore? In fact, Amazon shoppers can buy 1,500 crawling, flying somethings for the bargain price of a latte.",
+        "Features": "Whatever you want to do with insects!",
+        "Image": "2.jpg"
+    },
+
+    {
+        "Name": "A cat butt tissue holder",
+        "Price": "$34.94",
+        "Description": "This seems like the nicest thing to be plucked from a cat's rear since, well, ever. And who doesn't like to be stared down with peering, inquisitive eyes each time they need to blow their nose?",
+        "Features": "Kinda funny and will make you smile! :)",
+        "Image": "3.jpg"
+    },
+
+    {
+        "Name": "A baby mop",
+        "Price": "$29.99",
+        "Description": "It's never too early to teach your children about chores, as evidenced by this suit that lets your baby mop the house for you.",
+        "Features": "Cleans Floor and is clothing for babies at the same time",
+        "Image": "4.jpg"
+    },
+
+    {
+        "Name": "Dancing with Cats",
+        "Price": "$13.22",
+        "Description": "If you truly love your pet, you'll do anything for them, or with them—including interpretive dance, according to this book.",
+        "Features": "Gives knowledge to dance with your cat",
+        "Image": "5.jpg"
+    }
+]
